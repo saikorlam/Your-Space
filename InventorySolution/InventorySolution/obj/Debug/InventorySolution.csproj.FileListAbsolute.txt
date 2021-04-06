@@ -1,0 +1,11 @@
+C:\Users\murthy\source\repos\InventorySolution\InventorySolution\bin\Debug\InventorySolution.exe
+C:\Users\murthy\source\repos\InventorySolution\InventorySolution\bin\Debug\InventorySolution.pdb
+C:\Users\murthy\source\repos\InventorySolution\InventorySolution\obj\Debug\InventorySolution.WelcomeScr.resources
+C:\Users\murthy\source\repos\InventorySolution\InventorySolution\obj\Debug\InventorySolution.Properties.Resources.resources
+C:\Users\murthy\source\repos\InventorySolution\InventorySolution\obj\Debug\InventorySolution.csproj.GenerateResource.Cache
+C:\Users\murthy\source\repos\InventorySolution\InventorySolution\obj\Debug\InventorySolution.csproj.CoreCompileInputs.cache
+C:\Users\murthy\source\repos\InventorySolution\InventorySolution\obj\Debug\InventorySolution.exe
+C:\Users\murthy\source\repos\InventorySolution\InventorySolution\obj\Debug\InventorySolution.pdb
+C:\Users\murthy\source\repos\InventorySolution\InventorySolution\obj\Debug\InventorySolution.Record.resources
+C:\Users\murthy\source\repos\InventorySolution\InventorySolution\bin\Debug\Inventory.accdb
+C:\Users\murthy\source\repos\InventorySolution\InventorySolution\bin\Debug\InventorySolution.exe.config
